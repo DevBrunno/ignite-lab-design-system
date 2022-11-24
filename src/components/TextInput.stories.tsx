@@ -3,7 +3,7 @@ import { Envelope } from 'phosphor-react'
 import { TextInput, TextInputInputProps, TextInputRootProps } from './TextInput'
 
 export default {
-    title: 'Components/TextInput', // Titulo e Pasta dentro do Storybook.
+    title: 'Components/TextInput', // Titulo e Pasta dentro do Storybook
     component: TextInput.Root,
     args: {
         children: [    
