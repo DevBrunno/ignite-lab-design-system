@@ -18,7 +18,7 @@ export default {
     }
 } as Meta<TextProps>
 
-export const Default: StoryObj<TextProps> = {} // Subpasta dentro do Storybook "Obrigatorio"
+export const Default: StoryObj<TextProps> = {} //  Subpasta dentro do Storybook "Obrigatorio"
 
 export const Small: StoryObj<TextProps> = {
     args: {
